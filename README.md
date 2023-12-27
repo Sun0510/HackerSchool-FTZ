@@ -1,2 +1,5 @@
-# HackerSchool-FTZ
-시스템 해킹 워게임
+# HackerSchool FTZ
+
+- <h3> 한글 깨짐 (Putty) <br>
+Traslation - Remote character set - "Use Font Encoding" <br>
+Appearance - Font settings - Font - Change - 글꼴: 돋움체 <br>
